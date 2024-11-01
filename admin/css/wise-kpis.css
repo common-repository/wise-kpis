@@ -1,0 +1,43 @@
+#wpfooter {
+	display: none;
+}
+
+/* Increase font size and line height for KPI numbers */
+.kpi-number {
+	font-size: 3rem;
+	line-height: 1.2;
+}
+
+/* Style the KPI change percentage */
+.kpi-change {
+	display: inline-block;
+	padding: 0.25rem 0.5rem;
+	border-radius: 0.25rem;
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+/* Add green background to positive KPI changes */
+.kpi-change.positive {
+	background-color: #d1fae5;
+	color: #065f46;
+}
+
+/* Add red background to negative KPI changes */
+.kpi-change.negative {
+	background-color: #fed7d7;
+	color: #9b2c2c;
+}
+
+/* Style the "Apply" button */
+#filter-kpis {
+	background-color: #2563eb;
+	color: #fff;
+	border-color: #2563eb;
+	transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+#filter-kpis:hover {
+	background-color: #1d4ed8;
+	border-color: #1d4ed8;
+}

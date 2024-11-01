@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wise KPIs\n"
+"POT-Creation-Date: 2023-06-11 17:24+0300\n"
+"PO-Revision-Date: 2023-06-11 21:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wise-kpis.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/blocks-templates/class-codekamino-kpis-centered-text-block-template.php:12
+#: includes/blocks-templates/class-codekamino-kpis-rounded-block-template.php:12
+#: includes/blocks-templates/class-codekamino-kpis-simple-clean-block-template.php:12
+#: includes/blocks-templates/class-codekamino-kpis-vertical-aligned-centered-block-template.php:14
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: includes/blocks-templates/class-codekamino-kpis-centered-text-block-template.php:18
+#: includes/blocks-templates/class-codekamino-kpis-dark-mode-block-template.php:18
+#: includes/blocks-templates/class-codekamino-kpis-gradient-background-block-template.php:18
+#: includes/blocks-templates/class-codekamino-kpis-rounded-block-template.php:18
+#: includes/blocks-templates/class-codekamino-kpis-simple-clean-block-template.php:18
+#: includes/blocks-templates/class-codekamino-kpis-vertical-aligned-centered-block-template.php:20
+msgid "Change from"
+msgstr "Changement de"
+
+#: includes/blocks-templates/class-codekamino-kpis-dark-mode-block-template.php:12
+#: includes/blocks-templates/class-codekamino-kpis-gradient-background-block-template.php:12
+msgid "Current"
+msgstr "Actuel"
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-average-comments-per-post-block.php:32
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:96
+msgid "Average Comments Per Post"
+msgstr "Nombre moyen de commentaires par publication"
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-average-comments-per-post-block.php:41
+msgid "How many comments a post gets on average all over the site."
+msgstr "Combien de commentaires un message reçoit en moyenne sur tout le site."
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-average-comments-per-user-block.php:33
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:101
+msgid "Average Comments per User"
+msgstr "Commentaires moyens par utilisateur"
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-average-comments-per-user-block.php:42
+msgid "The average number of comments per user across all post types."
+msgstr ""
+"Nombre moyen de commentaires par utilisateur pour tous les types de "
+"publications."
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-comments-per-day-block.php:33
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:97
+msgid "Published Comments"
+msgstr "Commentaires publiés"
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-comments-per-day-block.php:42
+msgid "How many comments made per day, all over the site."
+msgstr "Combien de commentaires font par jour, sur tout le site."
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-number-of-spam-comments-block.php:36
+msgid "Total Number Of Spam Comments"
+msgstr "Nombre total de commentaires de spam"
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-number-of-spam-comments-block.php:45
+msgid "Total amount of spam comments."
+msgstr "Nombre total de commentaires de spam."
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-total-number-of-published-comments-block.php:33
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:100
+msgid "Total Number of Published Comments"
+msgstr "Nombre total de commentaires publiés"
+
+#: includes/kpis/content/blocks/class-codekamino-kpis-total-number-of-published-comments-block.php:42
+msgid "The total number of published comments."
+msgstr "Le nombre total de commentaires publiés."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-average-post-length-block.php:33
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:102
+msgid "Average Post Length"
+msgstr "Longueur moyenne des poteaux"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-average-post-length-block.php:42
+msgid "The average length of posts across all post types."
+msgstr ""
+"La longueur moyenne des publications pour tous les types de publications."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-longest-post-length-block.php:33
+msgid "Longest Post Length"
+msgstr "Longueur de poste la plus longue"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-longest-post-length-block.php:42
+msgid ""
+"The length (number of characters) of the longest post across all post types."
+msgstr ""
+"Longueur (nombre de caractères) de la publication la plus longue pour tous "
+"les types de publication."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-attachment-posts-block.php:33
+msgid "Number of Attachment Posts"
+msgstr "Nombre de postes de pièces jointes"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-attachment-posts-block.php:42
+msgid "The total number of attachment posts on the site."
+msgstr "Le nombre total de messages de pièces jointes sur le site."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-private-posts-block.php:33
+msgid "Number of Private Posts"
+msgstr "Nombre de postes privés"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-private-posts-block.php:42
+msgid "The total number of private posts across all post types."
+msgstr ""
+"Le nombre total de publications privées pour tous les types de publications."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-published-posts-block.php:33
+msgid "Total Published Posts"
+msgstr "Nombre total d’articles publiés"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-published-posts-block.php:42
+msgid "Total number of posts that are published in the site."
+msgstr "Nombre total de publications publiées sur le site."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-scheduled-posts-block.php:33
+msgid "Number of Scheduled Posts"
+msgstr "Nombre de postes inscrits"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-number-of-scheduled-posts-block.php:42
+msgid "For this KPI you should select future dates only."
+msgstr "Pour ce KPI, vous devez sélectionner uniquement les dates futures."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-shortest-post-length-block.php:33
+msgid "Shortest Post Length"
+msgstr "Longueur de poste la plus courte"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-shortest-post-length-block.php:42
+msgid "The length of the shortest post on the site."
+msgstr "La longueur de la publication la plus courte sur le site."
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-total-number-of-drafts-block.php:33
+msgid "Total Number of Drafts"
+msgstr "Nombre total de brouillons"
+
+#: includes/kpis/posts/blocks/class-codekamino-kpis-total-number-of-drafts-block.php:42
+msgid "The total number of drafts across all post types."
+msgstr "Nombre total de brouillons pour tous les types de publication."
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-administrators-block.php:28
+msgid "Number of Administrators"
+msgstr "Nombre d’administrateurs"
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-administrators-block.php:37
+msgid "The total number of administrators on the site."
+msgstr "Nombre total d’administrateurs sur le site."
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-authors-block.php:28
+msgid "Number of Authors"
+msgstr "Nombre d’auteurs"
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-authors-block.php:37
+msgid "The total number of Authors on the site."
+msgstr "Le nombre total d’auteurs sur le site."
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-nav-menu-items-block.php:33
+msgid "Number of Nav Menu Items"
+msgstr "Nombre d’éléments de menu de navigation"
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-nav-menu-items-block.php:42
+msgid "The total number of navigation menu items on the site."
+msgstr "Nombre total d’éléments de menu de navigation sur le site."
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-revisions-block.php:28
+msgid "Number of Post Revisions"
+msgstr "Nombre de révisions de poste"
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-revisions-block.php:37
+msgid ""
+"The total number of post revisions on the site within a specific date range."
+msgstr ""
+"Nombre total de révisions de publication sur le site dans une plage de dates "
+"spécifique."
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-subscribers-block.php:28
+msgid "Number of Subscribers"
+msgstr "Nombre d’abonnés"
+
+#: includes/kpis/system/blocks/class-codekamino-kpis-number-of-subscribers-block.php:37
+msgid "The total number of subscribers on the site."
+msgstr "Le nombre total d’abonnés sur le site."
+
+#: includes/kpis/users/blocks/class-codekamino-kpis-number-of-users-per-day-kpi-block.php:34
+msgid "Number of Users Registrations"
+msgstr "Nombre d’inscriptions d’utilisateurs"
+
+#: includes/kpis/users/blocks/class-codekamino-kpis-number-of-users-per-day-kpi-block.php:43
+msgid "The total number of new user registrations on the site."
+msgstr "Le nombre total de nouvelles inscriptions d’utilisateurs sur le site."
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-cost-of-goods-sold-block.php:38
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:115
+msgid "Cost of Goods Sold"
+msgstr "Coût des marchandises vendues"
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-cost-of-goods-sold-block.php:47
+msgid ""
+"The total cost of goods sold for completed orders in WooCommerce per day."
+msgstr ""
+"Le coût total des marchandises vendues pour les commandes terminées dans "
+"WooCommerce par jour."
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-coupons-usage-per-day-block.php:35
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:116
+msgid "Coupons Usage"
+msgstr "Utilisation des coupons"
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-coupons-usage-per-day-block.php:44
+msgid "The total number of coupons usage per day."
+msgstr "Le nombre total de coupons utilisés par jour."
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-total-completed-orders-block.php:31
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:117
+msgid "Total Completed Orders"
+msgstr "Total des commandes complétées"
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-total-completed-orders-block.php:40
+msgid "The total number of completed orders per day."
+msgstr "Le nombre total de commandes complétées par jour."
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-total-number-of-orders-per-day-block.php:33
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:118
+msgid "Total Number Of Orders"
+msgstr "Nombre total de commandes"
+
+#: includes/kpis/woocommerce/blocks/class-codekamino-kpis-total-number-of-orders-per-day-block.php:42
+msgid "The total number of shop orders per day."
+msgstr "Le nombre total de commandes en magasin par jour."
+
+#. Plugin Name of the plugin/theme
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:12
+msgid "Wise KPIs"
+msgstr "KPI judicieux"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:13
+msgid "Introduction"
+msgstr "Introduction"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:15
+msgid ""
+"Wise KPIs is a plugin for WordPress that allows you to track your website's "
+"key performance indicators (KPIs) in real-time. With Wise KPIs, you can "
+"monitor your website's traffic, sales, and other important metrics, and use "
+"this data to make informed decisions about your online business."
+msgstr ""
+"Wise KPIs est un plugin pour WordPress qui vous permet de suivre les "
+"indicateurs de performance clés (KPI) de votre site Web en temps réel. Avec "
+"les KPI Wise, vous pouvez surveiller le trafic, les ventes et d’autres "
+"mesures importantes de votre site Web, et utiliser ces données pour prendre "
+"des décisions éclairées concernant votre activité en ligne."
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:19
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:21
+#, php-format
+msgid ""
+"We welcome your feedback! Please feel free to reach out to us at <a "
+"href=\"mailto:%s\" class=\"text-indigo-500 hover:text-indigo-600\">%s</a>. "
+"We'd love to hear your thoughts, feature requests, and bug reports."
+msgstr ""
+"Vos commentaires sont les bienvenus! N’hésitez pas à nous contacter à "
+"l’adresse <a href=\"mailto:%s\" class=\"text-indigo-500 hover:text-"
+"indigo-600\">%s</a>. Nous aimerions connaître vos réflexions, vos demandes "
+"de fonctionnalités et vos rapports de bogues."
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:30
+#: includes/pages/class-codekamino-kpis-settings-page.php:38
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:34
+msgid ""
+"You can access the Wise KPIs settings page by navigating to \"Settings\" in "
+"the WordPress dashboard and clicking on \"Wise KPIs Settings\".<br/>From "
+"here, you can choose the design for your KPI blocks."
+msgstr ""
+"Vous pouvez accéder à la page des paramètres des KPI Wise en accédant à "
+"« Paramètres » dans le tableau de bord WordPress et en cliquant sur "
+"« Paramètres des KPI Wise ».<br/>De là, vous pouvez choisir la conception de "
+"vos blocs KPI."
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:45
+#: includes/pages/class-codekamino-kpis-settings-page.php:44
+msgid "KPIs Blocks Design"
+msgstr "Conception de blocs d’indicateurs de performance clés"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:47
+msgid ""
+"This setting allows you to change the look and feel of the KPIs display. You "
+"can choose from the following design options:"
+msgstr ""
+"Ce paramètre vous permet de modifier l’apparence de l’affichage des "
+"indicateurs de performance clés. Vous pouvez choisir parmi les options de "
+"conception suivantes :"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:53
+#: includes/pages/class-codekamino-kpis-settings-page.php:49
+msgid "Simple"
+msgstr "Simple"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:58
+#: includes/pages/class-codekamino-kpis-settings-page.php:50
+msgid "Dark"
+msgstr "Sombre"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:63
+#: includes/pages/class-codekamino-kpis-settings-page.php:51
+msgid "Gradient Background"
+msgstr "Arrière-plan dégradé"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:68
+#: includes/pages/class-codekamino-kpis-settings-page.php:52
+msgid "Centered"
+msgstr "Centré"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:73
+msgid "Vertical <br/> Aligned"
+msgstr "Vertical <br/> Aligné"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:79
+msgid ""
+"Every KPI page includes a date selection for generating the KPIs, the "
+"DEFAULT date range is for current day from start of the day to the current "
+"time"
+msgstr ""
+"Chaque page KPI inclut une sélection de date pour générer les KPI, la plage "
+"de dates DEFAULT est pour le jour actuel du début de la journée à l’heure "
+"actuelle"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:89
+msgid "Content"
+msgstr "Contenu"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:93
+msgid ""
+"The KPI Blocks section displays KPIs (Key Performance Indicators) that "
+"provide valuable insights into your website's performance. The KPIs are "
+"grouped into three categories: WooCommerce, Content, and User."
+msgstr ""
+"La section Blocs KPI affiche des KPI (indicateurs clés de performance) qui "
+"fournissent des informations précieuses sur les performances de votre site "
+"Web. Les KPI sont regroupés en trois catégories : WooCommerce, Contenu et "
+"Utilisateur."
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:98
+msgid "Published Posts"
+msgstr "Articles publiés"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:99
+msgid "Number Of Spam Comments"
+msgstr "Nombre de commentaires de spam"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:108
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:112
+msgid ""
+"The WooCommerce KPIs category displays KPIs related to your WooCommerce "
+"store. These KPIs include:"
+msgstr ""
+"La catégorie KPI WooCommerce affiche les KPI liés à votre boutique "
+"WooCommerce. Ces KPI sont les suivants :"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:124
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:128
+msgid ""
+"The User KPIs category displays KPIs related to your website's users. These "
+"KPIs include:"
+msgstr ""
+"La catégorie KPI utilisateur affiche les KPI liés aux utilisateurs de votre "
+"site Web. Ces KPI sont les suivants :"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:131
+msgid "Number of Users"
+msgstr "Nombre d'Utilisateurs"
+
+#: includes/pages/class-codekamino-kpis-basic-docs-page.php:132
+msgid "User Registration Growth Rate"
+msgstr "Taux de croissance de l’inscription des utilisateurs"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:28
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:28
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:28
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:29
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:29
+msgid "Activate Auto Refresh"
+msgstr "Activer l’actualisation automatique"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:33
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:33
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:31
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:32
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:32
+msgid "The page will be refreshed every 5 minutes"
+msgstr "La page sera actualisée toutes les 5 minutes"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:36
+msgid "Engagement KPIs"
+msgstr "KPI d’engagement"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:40
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:40
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:37
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:37
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:37
+msgid "Start Date:"
+msgstr "Date de début :"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:45
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:45
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:42
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:42
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:42
+msgid "End Date:"
+msgstr "Date de Fin:"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:51
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:68
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:77
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:51
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:48
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:67
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:76
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:48
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:67
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:76
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:49
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:66
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:75
+msgid "Compared Unit:"
+msgstr "Unité comparée :"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:53
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:53
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:50
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:50
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:51
+msgid "Yesterday"
+msgstr "Hier"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:54
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:54
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:51
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:51
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:52
+msgid "Last Week"
+msgstr "La semaine dernière"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:55
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:55
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:52
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:52
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:53
+msgid "Last Month"
+msgstr "Mois dernier"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:56
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:56
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:53
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:53
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:54
+msgid "Last Year"
+msgstr "L'année dernière"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:60
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:60
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:58
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:58
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:58
+msgid "Submit"
+msgstr "Envoyer"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:67
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:65
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:65
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:64
+msgid "Selected Date"
+msgstr "Date sélectionnée"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:73
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:72
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:72
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:71
+msgid "Selected Date Range:"
+msgstr "Plage de dates sélectionnée :"
+
+#: includes/pages/class-codekamino-kpis-content-kpis-page.php:75
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:75
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:74
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:74
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:73
+msgid "to"
+msgstr "à"
+
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:36
+msgid "Posts KPIs"
+msgstr "Posts KPI"
+
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:67
+msgid "Selected Date <b>Today</b>"
+msgstr "Date sélectionnée <b>aujourd’hui</b>"
+
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:68
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:77
+msgid "Compared Unit: "
+msgstr "Unité comparée : "
+
+#: includes/pages/class-codekamino-kpis-posts-kpis-page.php:73
+msgid "Selected Date Range: "
+msgstr "Plage de dates sélectionnée : "
+
+#: includes/pages/class-codekamino-kpis-settings-page.php:14
+#: includes/pages/class-codekamino-kpis-settings-page.php:15
+#: includes/pages/class-codekamino-kpis-settings-page.php:25
+msgid "Wise KPIs Settings"
+msgstr "Paramètres d’indicateurs de performance clés judicieux"
+
+#: includes/pages/class-codekamino-kpis-settings-page.php:53
+msgid "Vertical Aligned Centered"
+msgstr "Aligné vertical centré"
+
+#: includes/pages/class-codekamino-kpis-settings-page.php:55
+msgid "Will change the look and feel of the KPIs display"
+msgstr "Modifiera l’apparence de l’affichage des KPI"
+
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:33
+msgid "System KPIs"
+msgstr "KPI système"
+
+#: includes/pages/class-codekamino-kpis-system-kpis-page.php:66
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:66
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:65
+msgid "Today"
+msgstr "Aujourd’hui"
+
+#: includes/pages/class-codekamino-kpis-users-kpis-page.php:34
+msgid "Users KPIs"
+msgstr "KPI utilisateurs"
+
+#: includes/pages/class-codekamino-kpis-woocommerce-kpis-page.php:34
+msgid "Woocommerce KPIs"
+msgstr "KPI Woocommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://codekamino.com/wise-kpis"
+msgstr "https://codekamino.com/wise-kpis"
+
+#. Description of the plugin/theme
+msgid "Power KPIs for your website hustle free, out of the box."
+msgstr "Alimentez les KPI de votre site Web gratuitement, prêts à l’emploi."
+
+#. Author of the plugin/theme
+msgid "CodeKamino"
+msgstr "CodeKamino"
+
+#. Author URI of the plugin/theme
+msgid "https://codekamino.com"
+msgstr "https://codekamino.com"
